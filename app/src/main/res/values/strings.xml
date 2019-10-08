@@ -1,0 +1,63 @@
+<resources>
+    <string name="app_name">proyecto</string>
+    <string name="boton1">patrullas</string>
+    <string name="boton2">Armas</string>
+    <string name="boton3">Uniformes</string>
+    <string name="boton4">Esposas</string>
+    <string name="boton5">Placas</string>
+    <string name="boton6">sector</string>
+    <string name="boton7">Botas</string>
+    <string name="boton8">Operativos</string>
+    <string name="patrulla">Patrulla</string>
+    <string name="patrulladescrip">La Policía Federal (PF) fue un cuerpo policial de la Federación Mexicana con carácter de órgano desconcentrado de la Secretaría de Gobernación creado a partir de una restructuración de la Policía Federal Preventiva, con la publicación de la Ley de la Policía Federal en el Diario Oficial de la Federación el 1 de junio de 2009 por el presidente Felipe Calderón como brazo operativo en la lucha contra la delincuencia organizada.
+
+La Policía Federal fue oficialmente disuelta el 1 de octubre de 2019, tras un largo proceso de absorción en conjunto a la Policía Militar y la Policía Naval, con la publicación en el Diario Oficial de la Federación mexicana el acuerdo por el que se emiten los lineamientos para la transferencia de los recursos humanos, materiales y financieros que tiene asignados la Policía Federal a la Guardia Nacional, institución creada por el presidente Andrés Manuel López Obrador en su estrategia de seguridad pública. </string>
+    <string name="regreso">Regreso</string>
+    <string name="pantallaarmas">ARMAS</string>
+    <string name="des">Un arma es un instrumento o herramienta que permite atacar o defenderse. Por lo general, el término hace referencia al aspecto físico, ya que un arma puede lastimar físicamente o hasta matar a otra persona. </string>
+    <string name="arma">Un arma es un instrumento o herramienta que permite atacar o defenderse. Por lo general, el término hace referencia al aspecto físico, ya que un arma puede lastimar físicamente o hasta matar a otra persona.</string>
+    <string name="unif">UNIFORMES</string>
+    <string name="unifo">unifo</string>
+    <string name="txtunif">El uniforme policial es una representación de esos principios. Y es que el uniforme es un vehículo a través del cual se identifica su función y su primacía en la sociedad, es por ello que presenta una amplia simbología que tiene estrica relación con su origen y sus funciones dentro de nuestra sociedad</string>
+    <string name="titulo">ESPOSAS</string>
+    <string name="descripcion">LAS ESPOSAS Y GRILLETES POLICIALES: ... A continuación explicaremos los tipos y variedades de esposas que existen. DEFINICIÓN: Las esposas, ganchos o grilletes son un dispositivo de seguridad diseñado para mantener juntas las muñecas de un individuo.</string>
+    <string name="placa">PLACAS</string>
+    <string name="plac">placa</string>
+    <string name="placade">Los cuerpos policiales y otras figuras de las fuerzas de seguridad siempre se han identificado de alguna manera. A medida que las sociedades han evolucionado y modernizado, también lo han hecho los uniformes de los diferentes cuerpos del orden. A pesar de que el pasado ha marcado de manera muy fuerte ciertos aspectos. Uno de estos es la placa que se otorga a los diferentes agentes de policía, como el significado de estas placas de policía.
+</string>
+    <string name="tit">sector</string>
+    <string name="sec">sec</string>
+    <string name="sectorde">2 mil 400 policías que se transportan en bicicleta, operarán 409 módulos de vigilancia distribuidos en las 16 delegaciones, con el propósito de fortalecer la seguridad pública y que sean ellos el primer vínculo con la ciudadanía.
+
+El esquema de operación de las autoridades implica también coordinación con las 8 mil cámaras de videovigilancia instaladas en diversos puntos del Distrito Federal y elementos a bordo de patrullas.
+
+El Secretario de Seguridad Pública los ha exhortado particularmente, a combatir delitos como el robo a transeúnte y a casa habitación, así como faltas administrativas que derivan en remisiones al juez cívico.
+
+El Unidad de Contacto del Secretario, CAS, mantendrá comunicación permanente con el personal.
+
+La habilitación de los módulos de seguridad es parte de las acciones que la POLICÍA-DF implementó, para tratar de abatir los principales delitos de impacto que vulneran a las personas como el robo a transeúnte y robo a vehículo.
+
+LOS POLICLETOS ESTÁN LAS 24 HORAS, ATENDIENDO LAS PETICIONES DE LOS VECINOS.
+
+LOS MÓDULOS UBICADOS EN LAS 16 DELEGACIONES ESTÁN CONECTADOS AL SECTOR POLICIACO QUE LES CORRESPONDE PARA QUE AL MOMENTO DE OCURRIR UN INCIDENTE, SE ACTIVEN LAS ESTRATEGIAS DE INTELIGENCIA</string>
+    <string name="bota">Botas</string>
+    <string name="botaaaaaa">Botas</string>
+    <string name="botasdescripcion">paño con la tapa charolada, además de pompón, mochila y zapatos negros. .... Condecoraciones, Insignias y Divisas de la Policía del Distrito Federal,
+
+</string>
+    <string name="operativo">El GOES técnicamente depende del GEO y es una unidad que se creó para aquellos casos en los que no es necesaria la actuación de éste. Dichas misiones son:
+
+Reducir o neutralizar a terroristas o delincuentes peligrosos.
+Intervenir, en otros casos, hasta la llegada del GEO, p. ej. incidentes con rehenes o liberación de personas secuestradas.
+Ejecutar protecciones especiales de personas y bienes.
+La preparación de un agente GOES incluye formación específica para cada uno de estos cometidos, pero en la práctica hay grupos que se orientan más hacia una determinada actividad, como puede ser la contra vigilancia, protección de personalidades o como servicio de apoyo a las brigadas de Policía Judicial o la Unidad de Droga y Crimen Organizado (UDYCO), cuando éstas los requieran.
+
+Actualmente, el grupo con competencia para realizar misiones de protección de altas personalidades en países del extranjero, tales como Irak, Argelia, República Democrática del Congo, Libia, Cuba, etc. tanto en embajadas como consulados, es el GEO, pero, dado el escaso número de funcionarios que integran esta unidad, en comparación con otras, y la sobrecarga de trabajo que tienen, disponen miembros de las unidades GOES y UIP, siempre que dichos miembros accedan, ya que estas misiones son de carácter voluntario.
+
+</string>
+    <string name="opera">OPERATIVO</string>
+    <string name="logi">Logo</string>
+    <string name="fiscal">polis</string>
+
+
+</resources>
